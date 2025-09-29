@@ -1,4 +1,4 @@
-// COMSC-210 | Lab 14 | Heidi Pico
+// COMSC-210 | Lab 15 | Heidi Pico
 // IDE: VS CODE
 
 #include "Movie.h"
